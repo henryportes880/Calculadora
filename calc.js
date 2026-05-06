@@ -23,7 +23,7 @@ function executarCalculadora(){
     let continuar = true
 
     while(continuar){
-        menu() // <--- AQUI: mudei de exibirMenu para menu pra bater com o nome da sua funcao
+        menu()
         let opcao = prompt("oque voce deseja fazer?")
 
         //opcao de sair
